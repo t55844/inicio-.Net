@@ -1,0 +1,31 @@
+# Blazor output directories
+/bin/
+/obj/
+
+# Compiled C# files
+*.dll
+*.exe
+*.pdb
+*.dll.config
+
+# Dependency directories
+/bin/
+/obj/
+/packages/
+/wwwroot/lib/
+
+# Visual Studio files
+*.suo
+*.user
+*.sln.docstates
+*.vscode/
+.vs/
+
+# Rider files
+.idea/
+*.sln.iml
+*.ipr
+*.iws
+
+# Mac files
+.DS_Store
